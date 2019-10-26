@@ -1,0 +1,13 @@
+body{
+    background: #eee ;
+}
+.form-geral{
+    margin-top: 10px;
+}
+.bordinha{
+    border: 1px solid red;
+}
+
+input{
+    border-radius: 35px;
+}
