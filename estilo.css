@@ -4,6 +4,10 @@ body{
 .form-geral{
     margin-top: 10px;
 }
+
+.dash-btn{
+    margin-top: 30px;
+}
 .bordinha{
     border: 1px solid red;
 }
